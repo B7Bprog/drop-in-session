@@ -1,0 +1,7 @@
+- <span style="color:green; font-size:20px; font-weight:bold;">Variables</span>
+- <span style="color:orange; font-size:20px; font-weight:bold;">Conditional Logic</span>
+- <span style="color:orange; font-size:20px; font-weight:bold;">Accessing Arrays</span>
+- <span style="color:orange; font-size:20px; font-weight:bold;">Accessing Objects</span>
+- <span style="color:orange; font-size:20px; font-weight:bold;">Iteration</span>
+- <span style="color:yellow; font-size:20px; font-weight:bold;">Array Methods</span>
+- <span style="color:yellow; font-size:20px; font-weight:bold;">Problem Solving</span>
